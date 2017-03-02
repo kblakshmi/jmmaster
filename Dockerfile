@@ -1,4 +1,3 @@
-
 # Use jmeter-base as the foundation
 FROM dcokerid456/jmbase
 
